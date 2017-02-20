@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 3
+architectures: armeabi-v7a x86
+description: vtm
+author: Rainer Knöterich
+license: Specify your license
+copyright: Copyright (c) 2017 by 
+
+# these should not be edited
+name: vtm
+moduleid: de.appwerft.vtm
+guid: b45b4747-e06b-472e-be24-6fdc3fe4236a
+platform: android
+minsdk: 6.0.1.GA
