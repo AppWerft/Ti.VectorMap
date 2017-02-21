@@ -10,5 +10,4 @@ You can use vector tiles from server and you can deliver local data.
 
 ###Sources for offline mapdata:
 
-https://github.com/tilezen/vector-datasource
-https://mapzen.com/documentation/vector-tiles/
+Here you can download packages of vector maps : [AndroidMaps](http://www.androidmaps.co.uk/)
